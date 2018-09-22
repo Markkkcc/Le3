@@ -1,4 +1,4 @@
-token=NDkzMTM5NDg5NDQzNTQ1MDk4.Dogz6Q.u9cBzPJhM6X77XCojz_FYXSzLRI
+token=NDkzMTM5NDg5NDQzNTQ1MDk4.Dog1ww.AzExjEf2vlTDmE2Gja199Tw6bLM
 owner=466858375544832001 
 prefix=si
 game=siplay
